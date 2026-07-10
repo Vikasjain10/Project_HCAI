@@ -204,13 +204,14 @@ LLM outputs include: summary, stress/fatigue/wellness explanations, key issues, 
 
 ## Author
 
-**Vikas Jain** — [@Vikasjain10](https://github.com/Vikasjain10)
+**Vikas Jain** 
 
-**Sanjana Munikrishnappa** — @SanjanaMunikrishnappa
+**Sanjana Munikrishnappa**
 
-**Gaurav Tyaagi** — @GauravTyaagi
+**Gaurav Tyaagi** 
 
-**Utkarsh Gautam** — @UtkarshGautam
+**Utkarsh Gautam** 
+
 ---
 
 ## License
